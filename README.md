@@ -1,4 +1,4 @@
-# **Pizza Sales Insight using SQL and Power BI**
+# **Pizza Sales Insights using SQL and Power BI**
 ## **Problem Statement**
 The pizza store need to analyze key indicators for our pizza sales data to gain insights into the business performance. Specifically, they want to know some following metrics: total revenue, average order value, total pizza sold, total orders, average pizza per order. After that, they would like to visualize various espect of pizza sales data to gain insights and understand key trends, specifically with the following requirements:
 1. Daily trend for Total Orders
