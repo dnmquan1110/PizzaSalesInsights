@@ -20,6 +20,6 @@ Using the Power Query editor to transform, prepare and transform data
 * **Dashboard creation** : 
 The dashboard performed insights of data,provided visualizations and metrics to sales performance (sales by category/size), orders performance (daily/monthly trend), customer segmentation (top pizza were sold by revenue/orders/names)
 
-
+## **Image of Visualization by Power BI**
 ![Dashboard 1](https://github.com/dnmquan1110/PizzaSalesReport/blob/main/images/Dashboard1.jpg)
 ![Dashboard 2](https://github.com/dnmquan1110/PizzaSalesReport/blob/main/images/Dashboard2.jpg)
