@@ -4,17 +4,13 @@ The pizza store want to know clearly and deeply about sales in 2015. They want t
 
 ## **Solution approach**
 To address the statement, I used the following approach:
-* **Data import and Initial Analysis**
-
+* **Data import and Initial Analysis** \n
 The data is imported into a SQL database, and the insights were drawn from the data using SQL queries to gain a preliminary understanding of the sales trend.
-* **Connecting SQL database to Power BI**
-
+* **Connecting SQL database to Power BI** \n
 The SQL database was connected to Power BI, establishing a live connection
-* **Data cleaning and Transformation**
-
+* **Data cleaning and Transformation** \n
 Using the Power Query editor to transform, prepare and transform data
-* **Dashboard creation**
-
+* **Dashboard creation** \n
 The dashboard performed insights of data,provided visualizations and metrics to sales performance (sales by category/size), orders performance (daily/monthly trend), customer segmentation (top pizza were sold by revenue/orders/names)
 
 
