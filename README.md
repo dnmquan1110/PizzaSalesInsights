@@ -1,6 +1,13 @@
 # **Pizza Sales Insight using SQL and Power BI**
 ## **Problem Statement**
-The pizza store want to know clearly and deeply about sales in 2015. They want to know specifically about the revenue, the daily trend, the monthly trend of orders, which pizza is in top best-sellers,...From that, they will find ways to increase sales in the future.
+The pizza store need to analyze key indicators for our pizza sales data to gain insights into the business performance. Specifically, they want to know some following metrics: total revenue, average order value, total pizza sold, total orders, average pizza per order. After that, they would like to visualize various espect of pizza sales data to gain insights and understand key trends, specifically with the following requirements:
+1. Daily trend for Total Orders
+2. Monthly trend for Total Orders
+3. Percentage of Sales by Pizza Category
+4. Percentage of Sales by Pizza Size
+5. Total Pizza Sold by Pizza Category
+6. Top 5 best sellers by revenue, total quantity and total orders
+7. Bottom 5 best sellers by revenue, total quantity and total orders
 
 ## **Solution approach**
 To address the statement, I used the following approach:
